@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{76E4EC0A-99F9-FFC2-2129-213BAED3C2D8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Scripts/Skyscraper.cs">
+    <Files>
+      <File FileName="Assets/Resources/Scripts/Skyscraper.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Scripts/Coin.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Scripts/Airplane.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Scripts/GameOverText.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Scripts/Diamond.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Scripts/HeliController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1e74f18c-dca5-4ac2-803f-8c0041b448dd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
